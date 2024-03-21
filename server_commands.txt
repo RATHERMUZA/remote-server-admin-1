@@ -1,0 +1,34 @@
+Apache2 Commands:
+- Start Apache service: sudo service apache2 start
+- Stop Apache service: sudo service apache2 stop
+- Restart Apache service: sudo service apache2 restart
+- Reload Apache configuration: sudo service apache2 reload
+- Check Apache status: sudo service apache2 status
+
+Nginx Commands:
+- Start Nginx service: sudo systemctl start nginx
+- Stop Nginx service: sudo systemctl stop nginx
+- Restart Nginx service: sudo systemctl restart nginx
+- Reload Nginx configuration: sudo systemctl reload nginx
+- Check Nginx status: sudo systemctl status nginx
+
+SCP Commands (with DevOps IP):
+- Copy file from local to remote: scp /path/to/local/file username@devops_ip:/path/to/remote/directory
+- Copy file from remote to local: scp username@devops_ip:/path/to/remote/file /path/to/local/directory
+- Copy directory from local to remote: scp -r /path/to/local/directory username@devops_ip:/path/to/remote/directory
+- Copy directory from remote to local: scp -r username@devops_ip:/path/to/remote/directory /path/to/local/directory
+
+SCP Commands (with Tom IP):
+- Copy file from local to remote: scp /path/to/local/file username@tom_ip:/path/to/remote/directory
+- Copy file from remote to local: scp username@tom_ip:/path/to/remote/file /path/to/local/directory
+- Copy directory from local to remote: scp -r /path/to/local/directory username@tom_ip:/path/to/remote/directory
+- Copy directory from remote to local: scp -r username@tom_ip:/path/to/remote/directory /path/to/local/directory
+
+System Information Commands:
+- List directory contents with long format: ls -ldF
+- Display disk usage: du -sh
+- Show free memory in MB: free -m
+- Display CPU usage: top
+
+Note: Replace "username" with the appropriate username, "devops_ip" and "tom_ip" with the respective IP addresses.
+

@@ -1,0 +1,38 @@
+CloudCraft.sh: Automated Cloud Infrastructure Deployment
+
+Overview:
+CloudCraft.sh is a powerful automation script designed to streamline the deployment of cloud infrastructure.
+
+Installation:
+1. Clone the repository: git clone https://github.com/Raja-Ramees/CloudCraft.sh.git
+2. Navigate to the script directory: cd CloudCraft.sh
+
+Usage:
+Execute the script by running: ./CloudCraft.sh
+Follow the on-screen prompts to proceed with the cloud infrastructure deployment tasks.
+
+Options:
+- Server Setup: Automate the setup of cloud servers with predefined configurations.
+- Service Configuration: Configure services such as Apache or Nginx for web hosting.
+- File Transfer: Transfer files securely to remote servers using SCP.
+- System Information Gathering: Retrieve detailed system information from target servers for monitoring purposes.
+
+Requirements:
+Local Environment:
+- Bash (Bourne Again Shell)
+- Git (optional)
+
+Cloud Providers:
+- Access to cloud provider APIs or web consoles for server provisioning.
+
+Example:
+Below is a brief example of how to use the script:
+./CloudCraft.sh
+Follow the on-screen instructions to choose deployment options, configure services, and gather system information.
+
+Author:
+Raja Ramees - Initial work - GitHub
+
+License:
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
