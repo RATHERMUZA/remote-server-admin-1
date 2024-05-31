@@ -9,7 +9,7 @@ CloudCraft.sh is a powerful automation script designed to streamline the deploym
 You can install CloudCraft.sh by cloning the repository:
 
 ```bash
-git clone https://github.com/Raja-Ramees/CloudCraft.sh.git
+git clone https://github.com/RATHERMUZA/CloudCraft.sh.git
 Usage
 Execute the script by running:
 
@@ -40,7 +40,7 @@ Copy code
 Follow the on-screen instructions to choose deployment options, configure services, and gather system information.
 
 Author
-Raja Ramees - Initial work - GitHub
+RATHERMUZA - Initial work - GitHub
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
