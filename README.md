@@ -1,6 +1,6 @@
 # <h1>CloudCraft.sh: Automated Cloud Infrastructure Deployment</h1>
 
-![CloudCraft Logo](https://github.com/Raja-Ramees/remote-server-admin/raw/main/CloudCraft.png)
+![CloudCraft Logo](https://github.com/RATHERMUZA/remote-server-admin/raw/main/CloudCraft.png)
 
 ## Overview
 CloudCraft.sh is a powerful automation script designed to streamline the deployment of cloud infrastructure. With CloudCraft.sh, you can automate the setup of servers, configure services, and gather essential system information effortlessly. This script simplifies cloud infrastructure management, allowing you to focus on your core tasks.
